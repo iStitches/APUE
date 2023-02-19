@@ -1,0 +1,5 @@
+a write to stdout
+before work
+pid = 10093, glob = 7, var = 89
+before work
+pid = 10092, glob = 6, var = 88
